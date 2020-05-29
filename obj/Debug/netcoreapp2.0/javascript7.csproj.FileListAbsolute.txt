@@ -1,0 +1,11 @@
+C:\Users\seris nera\Desktop\javascript7\bin\Debug\netcoreapp2.0\javascript7.deps.json
+C:\Users\seris nera\Desktop\javascript7\bin\Debug\netcoreapp2.0\javascript7.runtimeconfig.json
+C:\Users\seris nera\Desktop\javascript7\bin\Debug\netcoreapp2.0\javascript7.runtimeconfig.dev.json
+C:\Users\seris nera\Desktop\javascript7\bin\Debug\netcoreapp2.0\javascript7.dll
+C:\Users\seris nera\Desktop\javascript7\bin\Debug\netcoreapp2.0\javascript7.pdb
+C:\Users\seris nera\Desktop\javascript7\obj\Debug\netcoreapp2.0\javascript7.csprojAssemblyReference.cache
+C:\Users\seris nera\Desktop\javascript7\obj\Debug\netcoreapp2.0\javascript7.csproj.CoreCompileInputs.cache
+C:\Users\seris nera\Desktop\javascript7\obj\Debug\netcoreapp2.0\javascript7.AssemblyInfoInputs.cache
+C:\Users\seris nera\Desktop\javascript7\obj\Debug\netcoreapp2.0\javascript7.AssemblyInfo.cs
+C:\Users\seris nera\Desktop\javascript7\obj\Debug\netcoreapp2.0\javascript7.dll
+C:\Users\seris nera\Desktop\javascript7\obj\Debug\netcoreapp2.0\javascript7.pdb
